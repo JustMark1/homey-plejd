@@ -9,6 +9,8 @@ Supported features:
 - Syncing Plejd internal clock
 - Plejd buttons (single click only)
 
+With big thanks to [Smartprofy](https://smartprofy.nl) testing this code with their Plejd products!
+
 ## Thanks
 Big thanks to [@klali](https://github.com/klali) and his https://github.com/klali/ha-plejd component for Home assistant, this project would not have been possible without it.
 
